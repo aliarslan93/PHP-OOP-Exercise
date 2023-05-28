@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Interfaces\\": "Interfaces/",
+      "Abstracts\\": "Abstracts/",
+      "Classes\\": "Classes/",
+      "Vehicles\\": "Brands/"
+    }
+  }
+}
