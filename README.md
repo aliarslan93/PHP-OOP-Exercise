@@ -1,2 +1,1 @@
-# PHP-OOP-Exercise
-PHP OOP Exercise 
+# OOP Exercise
