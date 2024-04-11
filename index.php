@@ -6,13 +6,14 @@ $bmwCar->run();
 $bmwCar->increaseCapacity(2);
 
 echo $bmwCar->getCapacity();
-//Result
+//Result 3
 
+$bmwCar->decreaseCapacity(2);
 //Only Driver Goooing...
 
-//Few days later
-
+//Few minutes later
 $bmwCar->stopEngine();
+Driver Free..
 
 
 
